@@ -7,8 +7,8 @@ cd biomass
 scrapy crawl weeks
 ```
 
-If you want to save output into file:
+Output file
 ```
-cd biomass
-scrapy crawl weeks -o output.json
+biomass/output/articles.json
+biomass/output/content.json
 ```
