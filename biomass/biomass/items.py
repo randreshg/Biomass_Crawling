@@ -7,6 +7,7 @@ import scrapy
 
 class BiomassItem(scrapy.Item):
     # define the fields for your item here like:
+    week_index = scrapy.Field()
     week = scrapy.Field()
     url = scrapy.Field()
     articles = scrapy.Field()
