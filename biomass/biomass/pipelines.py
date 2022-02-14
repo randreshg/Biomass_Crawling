@@ -12,8 +12,8 @@ import os
 
 class BiomassPipeline:
     def open_spider(self, spider):
-        self.file_articles = open('articles.json', 'w')
-        self.file_content = open('content.json', 'w')
+        self.file_articles = open('output/articles.json', 'w')
+        self.file_content = open('output/content.json', 'w')
         # Initial content
         self.file_articles.write("[")
         self.file_content.write("[")

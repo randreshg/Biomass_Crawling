@@ -10,7 +10,7 @@ class WeekSpider(scrapy.Spider):
     def parse(self, response):
         elements = response.css('#colLeft a')
         #for element in elements:
-        for i in range(0, 5):
+        for i in range(0, 10):
             element = elements[i]
             week = element.css('::text').extract_first()
             url = element.css('::attr(href)').extract_first()

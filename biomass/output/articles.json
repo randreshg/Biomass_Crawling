@@ -1,4 +1,34 @@
 [{
+    "week_index": 7,
+    "week": "Biomass Week - 12/29/2021",
+    "url": "/newsletters/view/942",
+    "articles": 12
+}, 
+{
+    "week_index": 9,
+    "week": "Biomass Week - 12/15/2021",
+    "url": "/newsletters/view/939",
+    "articles": 12
+}, 
+{
+    "week_index": 3,
+    "week": "Biomass Week - 1/26/2022",
+    "url": "/newsletters/view/948",
+    "articles": 12
+}, 
+{
+    "week_index": 8,
+    "week": "Biomass Week - 12/22/2021",
+    "url": "/newsletters/view/940",
+    "articles": 12
+}, 
+{
+    "week_index": 4,
+    "week": "Biomass Week - 1/19/2022",
+    "url": "/newsletters/view/946",
+    "articles": 12
+}, 
+{
     "week_index": 1,
     "week": "Biomass Week - 2/9/2022",
     "url": "/newsletters/view/951",
@@ -11,14 +41,14 @@
     "articles": 12
 }, 
 {
-    "week_index": 3,
-    "week": "Biomass Week - 1/26/2022",
-    "url": "/newsletters/view/948",
-    "articles": 12
+    "week_index": 6,
+    "week": "Biomass Week - 1/5/2022",
+    "url": "/newsletters/view/943",
+    "articles": 10
 }, 
 {
-    "week_index": 4,
-    "week": "Biomass Week - 1/19/2022",
-    "url": "/newsletters/view/946",
+    "week_index": 5,
+    "week": "Biomass Week - 1/12/2022",
+    "url": "/newsletters/view/945",
     "articles": 12
 }] 
